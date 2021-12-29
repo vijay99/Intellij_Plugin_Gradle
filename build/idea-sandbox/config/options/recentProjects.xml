@@ -1,0 +1,37 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled" opened="true" projectWorkspaceId="22v8nkAmMpD7fSpkoyZ5K7d2FWD">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.5744.223" />
+              <option name="buildTimestamp" value="1637997255535" />
+              <frame x="293" y="53" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1640706869596" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="groups">
+      <list>
+        <ProjectGroup>
+          <option name="bottomGroup" value="true" />
+          <option name="name" value="Eclipse Projects" />
+          <option name="projects">
+            <list>
+              <option value="$USER_HOME$/eclipse-workspace/spring-demo-one" />
+              <option value="$USER_HOME$/eclipse-workspace/hibernate.learning" />
+              <option value="$USER_HOME$/eclipse-workspace/spring-demo-annotation" />
+              <option value="$USER_HOME$/IdeaProjects/LoadTest" />
+            </list>
+          </option>
+        </ProjectGroup>
+      </list>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
