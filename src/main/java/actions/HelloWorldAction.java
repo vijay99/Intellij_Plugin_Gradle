@@ -9,7 +9,7 @@ import org.jetbrains.annotations.NotNull;
  * @author Sacumen (www.sacumen.com) <br> <br>
  */
 public class HelloWorldAction extends AnAction {
-    int Eom =20;
+    String password ="abc1234";
     @Override
     public void actionPerformed(@NotNull AnActionEvent e) {
         Messages.showInfoMessage("Hello World","Info");
